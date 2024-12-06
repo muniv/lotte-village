@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lotte-village/static/css/main.12f6c3d6.css",
+    "main.js": "/lotte-village/static/js/main.c9dee050.js",
+    "static/js/453.70165c3c.chunk.js": "/lotte-village/static/js/453.70165c3c.chunk.js",
+    "static/media/lotteworld.png": "/lotte-village/static/media/lotteworld.6cd5b31d3358ceddc7ca.png",
+    "static/media/lotteshopping.png": "/lotte-village/static/media/lotteshopping.a37ddd6f9e0cd57e5442.png",
+    "static/media/santa_front.png": "/lotte-village/static/media/santa_front.e336fcd8689518dcb16a.png",
+    "static/media/santa_left.png": "/lotte-village/static/media/santa_left.02b17c30d62310ddfc1f.png",
+    "static/media/santa_right.png": "/lotte-village/static/media/santa_right.5d11b290e5fb1972eac4.png",
+    "static/media/lottecon.png": "/lotte-village/static/media/lottecon.13f1f99ef78504cfe4a2.png",
+    "static/media/lottegrs.png": "/lotte-village/static/media/lottegrs.5bafa4899e254b964e03.png",
+    "static/media/background.png": "/lotte-village/static/media/background.fe596a70cd1cf8f101a4.png",
+    "index.html": "/lotte-village/index.html",
+    "main.12f6c3d6.css.map": "/lotte-village/static/css/main.12f6c3d6.css.map",
+    "main.c9dee050.js.map": "/lotte-village/static/js/main.c9dee050.js.map",
+    "453.70165c3c.chunk.js.map": "/lotte-village/static/js/453.70165c3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f6c3d6.css",
+    "static/js/main.c9dee050.js"
+  ]
+}
