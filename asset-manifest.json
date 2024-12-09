@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lotte-village/static/css/main.c35d44d0.css",
-    "main.js": "/lotte-village/static/js/main.324e526e.js",
+    "main.css": "/lotte-village/static/css/main.36141157.css",
+    "main.js": "/lotte-village/static/js/main.17f7d947.js",
     "static/js/453.70165c3c.chunk.js": "/lotte-village/static/js/453.70165c3c.chunk.js",
     "static/media/lotteworldcastle.png": "/lotte-village/static/media/lotteworldcastle.6bd9f9662342c90d750c.png",
     "static/media/lotteria.png": "/lotte-village/static/media/lotteria.c59678b3698b04cf1307.png",
@@ -24,12 +24,12 @@
     "static/media/lottetower.png": "/lotte-village/static/media/lottetower.7c92529637e2c444bc80.png",
     "static/media/lotteinnovate.png": "/lotte-village/static/media/lotteinnovate.caa4bb9d11fd7f830fa8.png",
     "index.html": "/lotte-village/index.html",
-    "main.c35d44d0.css.map": "/lotte-village/static/css/main.c35d44d0.css.map",
-    "main.324e526e.js.map": "/lotte-village/static/js/main.324e526e.js.map",
+    "main.36141157.css.map": "/lotte-village/static/css/main.36141157.css.map",
+    "main.17f7d947.js.map": "/lotte-village/static/js/main.17f7d947.js.map",
     "453.70165c3c.chunk.js.map": "/lotte-village/static/js/453.70165c3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c35d44d0.css",
-    "static/js/main.324e526e.js"
+    "static/css/main.36141157.css",
+    "static/js/main.17f7d947.js"
   ]
 }
