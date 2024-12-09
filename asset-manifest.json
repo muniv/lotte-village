@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lotte-village/static/css/main.45883745.css",
-    "main.js": "/lotte-village/static/js/main.c71b9db4.js",
+    "main.js": "/lotte-village/static/js/main.417bd3de.js",
     "static/js/453.70165c3c.chunk.js": "/lotte-village/static/js/453.70165c3c.chunk.js",
     "static/media/lotteworld.png": "/lotte-village/static/media/lotteworld.6cd5b31d3358ceddc7ca.png",
     "static/media/lottechem.png": "/lotte-village/static/media/lottechem.d89a557573819b975856.png",
@@ -20,11 +20,11 @@
     "static/media/lotteinnovate.png": "/lotte-village/static/media/lotteinnovate.caa4bb9d11fd7f830fa8.png",
     "index.html": "/lotte-village/index.html",
     "main.45883745.css.map": "/lotte-village/static/css/main.45883745.css.map",
-    "main.c71b9db4.js.map": "/lotte-village/static/js/main.c71b9db4.js.map",
+    "main.417bd3de.js.map": "/lotte-village/static/js/main.417bd3de.js.map",
     "453.70165c3c.chunk.js.map": "/lotte-village/static/js/453.70165c3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45883745.css",
-    "static/js/main.c71b9db4.js"
+    "static/js/main.417bd3de.js"
   ]
 }
